@@ -1,6 +1,6 @@
-# 💻 Técnicas de Programación
+# 💻 TP
 
-> 📚 Repositorio del curso de **Técnicas de Programación (TP)**
+> 📚 Repositorio del curso de **Técnicas de Programación**
 >
 > Aquí viven mis laboratorios, prácticas y exámenes después de varias horas debuggeando 💀
 
