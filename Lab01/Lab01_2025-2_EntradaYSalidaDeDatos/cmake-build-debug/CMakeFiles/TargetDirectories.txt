@@ -1,3 +1,0 @@
-D:/Trabajos/TP/2025_2_Laboratorio_01_20222032_Lazaro_Ento/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/Lab01_2025_2_EntradaYSalidaDeDatos.dir
-D:/Trabajos/TP/2025_2_Laboratorio_01_20222032_Lazaro_Ento/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Trabajos/TP/2025_2_Laboratorio_01_20222032_Lazaro_Ento/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
