@@ -10,17 +10,18 @@
 
 ## 🧪 Prácticas tipo B
 
-| Práctica | Nota |
+| Labs | Nota |
 |:---|:---:|
-| Práctica 1 | **19** |
-| Práctica 2 | **17** |
-| Práctica 3 | **18** |
-| Práctica 4 | **15** |
-| Práctica 5 | **20** |
-| Práctica 6 | **20** |
-| Práctica 7 | **20** |
-| Práctica 8 | **20** |
-| Práctica 9 | **Nunca existió** 💀 |
+| Lab 1 | **19** |
+| Lab 2 | **17** |
+| Lab 3 | **18** |
+| Lab 4 | **15** |
+| Lab 5 | **20** |
+| Lab 6 | **20** |
+| Lab 7 | **20** |
+| Lab 8 | **20** |
+| Lab 9 | **Nunca existió** 💀 |
+| Lab 10 | **No hubo** |
 
 ---
 
