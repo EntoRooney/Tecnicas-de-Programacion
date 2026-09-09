@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Trabajos\TP\Examen1_2025_2_20222032_Lazaro_Ento\Pregunta2_2025_2 -B D:\Trabajos\TP\Examen1_2025_2_20222032_Lazaro_Ento\Pregunta2_2025_2\cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Trabajos/TP/Examen1_2025_2_20222032_Lazaro_Ento/Pregunta2_2025_2/cmake-build-debug
