@@ -1,0 +1,3 @@
+D:/Trabajos/TP/2025_5_Laboratorio_03_20222032_Lazaro_Ento/2025-2_Lab03_ArchivosDeTexto/cmake-build-debug/CMakeFiles/2025_2_Lab03_ArchivosDeTexto.dir
+D:/Trabajos/TP/2025_5_Laboratorio_03_20222032_Lazaro_Ento/2025-2_Lab03_ArchivosDeTexto/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Trabajos/TP/2025_5_Laboratorio_03_20222032_Lazaro_Ento/2025-2_Lab03_ArchivosDeTexto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
