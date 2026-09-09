@@ -1,8 +1,8 @@
 # 💻 Técnicas de Programación
-> 📚 Repositorio del curso de **TP**
+> 📚 Repositorio del curso de *TP*
 >
 > Aquí viven mis laboratorios, prácticas y exámenes después de varias horas debuggeando 💀
-> # 📊 Mis notas
+> 📊 Mis notas
 
 ## 🧪 Prácticas tipo B
 
