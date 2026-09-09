@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laboratorio07_2025_2_CSV_Estructuras",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laboratorio07_2025_2_CSV_Estructuras::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laboratorio07_2025_2_CSV_Estructuras-Debug-dc549e1f2e1ec03b7df4.json",
+					"name" : "Laboratorio07_2025_2_CSV_Estructuras",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Trabajos/TP/Lab07_2025_2_20222032_Lazaro_Ento/Laboratorio07-2025-2_CSV_Estructuras/cmake-build-debug",
+		"source" : "D:/Trabajos/TP/Lab07_2025_2_20222032_Lazaro_Ento/Laboratorio07-2025-2_CSV_Estructuras"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
