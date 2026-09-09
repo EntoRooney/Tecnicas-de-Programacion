@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2025_1_Lab02_ArchivosDeTexto",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2025_1_Lab02_ArchivosDeTexto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2025_1_Lab02_ArchivosDeTexto-Debug-db02b58d10219ad4ff9d.json",
+					"name" : "2025_1_Lab02_ArchivosDeTexto",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Trabajos/TP/2025_2_Laboratorio_02_20222032_Lazaro_Ento/2025-1_Lab02_ArchivosDeTexto/cmake-build-debug",
+		"source" : "D:/Trabajos/TP/2025_2_Laboratorio_02_20222032_Lazaro_Ento/2025-1_Lab02_ArchivosDeTexto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
