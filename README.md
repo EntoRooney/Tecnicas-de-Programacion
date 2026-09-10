@@ -2,7 +2,7 @@
 
 > 📚 Repositorio del curso de **Técnicas de Programación 2025-2**
 >
-> Aquí viven mis laboratorios, prácticas y exámenes después de varias horas debuggeando 💀
+> Aquí viven mis laboratorios, prácticas y exámenes después de varias horas debuggeando con Sayonara/Omakase de fondo 💀
 
 ---
 
